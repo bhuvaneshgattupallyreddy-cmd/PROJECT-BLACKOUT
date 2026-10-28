@@ -80,7 +80,7 @@ Completed — Operation: Blackout is available on GitHub.
 
 ## 👨‍💻 Developer
 
-Created by **You**
+Created by **Bhuvanesh**
 
 ## ⚠️ Disclaimer
 
